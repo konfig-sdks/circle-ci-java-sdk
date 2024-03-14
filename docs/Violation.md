@@ -1,0 +1,14 @@
+
+
+# Violation
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**reason** | **String** |  |  |
+|**rule** | **String** |  |  |
+
+
+
